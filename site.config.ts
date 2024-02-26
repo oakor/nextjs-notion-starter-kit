@@ -10,16 +10,16 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'ZenJoy',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: 'https://www.notion.so/CenJoy-35f504d9af0d4934a53f4f7d72f0779a',
   author: 'ZenJoy',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
 
   // social usernames (optional)
-  twitter: 'z18846013816',
+  twitter: '',
   github: 'https://github.com/oakor',
-  linkedin: 'fisch2',
+  linkedin: '',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
